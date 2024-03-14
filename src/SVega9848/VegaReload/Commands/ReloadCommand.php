@@ -14,6 +14,7 @@ class ReloadCommand extends Command implements PluginOwned {
 
     public function __construct() {
         parent::__construct("vegareload", "Reload all of your plugins data with one command!", "", ["reload"]);
+        $this->setPermission("vegareload.cmd");
     }
 
     public function execute(CommandSender $sender, string $commandLabel, array $args) {
