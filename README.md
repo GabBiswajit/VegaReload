@@ -2,6 +2,8 @@
 
 VegaReload is a plugin that allows you to reload the plugins config with just a command!
 
+Warning : This Impact On Players Data !
+
 If you do not want a plugin to be reloaded, you can update the disabled-plugins list on the config! :smiley:
 Just make sure that the plugin name is well written!
 
