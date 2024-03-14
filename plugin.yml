@@ -1,7 +1,7 @@
 main: SVega9848\VegaReload\Loader
-version: 1.0.0
+version: 2.0.0
 name: VegaReload
-api: [4.0.0]
+api: [5.0.0]
 author: SVega9848
 website: https://www.youtube.com/@Jayseba04
 
